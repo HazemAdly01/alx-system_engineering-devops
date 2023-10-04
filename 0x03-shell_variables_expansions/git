@@ -1,4 +1,0 @@
-#!/bin/bash
-alias ga='git add .'
-alias gc='git commit -m "my commit"
-alias gp='git push'
